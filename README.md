@@ -18,6 +18,9 @@ This is a demo project to build a simple YouTube-clone application inspired by [
 
 ## Architecture
 
+<img width="1086" height="666" alt="Screenshot 2025-08-04 at 11 29 14" src="https://github.com/user-attachments/assets/9c5e599d-8b9b-4f9e-8da9-d13bc12a7034" />
+
+
 ### Frontend
 
 - Next.js (TypeScript) is used to build the frontend UI
