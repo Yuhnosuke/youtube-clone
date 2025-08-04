@@ -54,3 +54,7 @@ This is a demo project to build a simple YouTube-clone application inspired by [
 ## Acknowledgment
 
 Many thanks [NeetCode](https://neetcode.io/) for clear and great educational content.
+
+---
+
+The Firebase API key was temporarily included in the Git history, but the associated project has already been deleted, and the key is no longer valid.
